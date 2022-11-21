@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/anabcoelho">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anabcoelho&theme=gotham&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabcoelho&layout=compact&langs_count=7&theme=gotham"/>
 </div>
