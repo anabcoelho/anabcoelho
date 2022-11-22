@@ -12,7 +12,7 @@
 
 <br>
 
-<img style="margin: 10px" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"" alt="Python" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" />
@@ -43,7 +43,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" height="50">
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50">
 
-<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsnowflakedb&psig=AOvVaw0gQuQFonHJvauSZZkJ57bm&ust=1669168499974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDZqq3XwPsCFQAAAAAdAAAAABAE" alt="Snowflake" height="50">
+<img style="margin: 10px" src=" https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="Snowflake" height="50">
 
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="Prolog" height="50">
 
