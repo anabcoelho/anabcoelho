@@ -6,24 +6,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anabecoelho) 
 
 ## 💻 Skills:
-<div align="center">
 
 ### Clouds
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" />
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" />
-
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="50">
+  
+### Linguagens
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="Prolog" height="50">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="50">
 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="50">
+
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50">
+
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="50">
+
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="50">
+
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="50">
+
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50">
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" height="50">
 
@@ -44,7 +47,8 @@
 
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="Snowflake" height="50">
 
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="Prolog" height="50">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" height="50">
+
 
 
 
