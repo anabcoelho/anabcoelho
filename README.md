@@ -7,6 +7,8 @@
 
 ## 💻 Skills:
 
+<div style="display: inline_block"><br>
+
 ### Clouds
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" />
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" />
