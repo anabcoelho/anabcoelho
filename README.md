@@ -8,9 +8,7 @@
 # 💻 Skills:
 <div align="center">
 
-## 🤹 My Skill Set
 
-<br>
 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" />
@@ -43,12 +41,11 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" height="50">
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50">
 
-<img style="margin: 10px" src=" https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="Snowflake" height="50">
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="Snowflake" height="50">
 
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" alt="Prolog" height="50">
 
 
-</div>
 
 <br>
 
