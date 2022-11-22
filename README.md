@@ -13,8 +13,9 @@
   <a href="https://github.com/anabcoelho">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anabcoelho&theme=gotham&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabcoelho&layout=compact&langs_count=7&theme=gotham"/>
+  
+  
+  ![Snake animation](https://github.com/anabcoelho/anabcoelho/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  <div>
-    ![Snake animation](https://github.com/anabcoelho/anabcoelho/blob/output/github-contribution-grid-snake.svg)
-  </div>
+ 
